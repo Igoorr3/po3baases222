@@ -1,0 +1,32 @@
+{
+  "Orichalcum Spear": {
+    "min": 38,
+    "max": 70,
+    "aps": 1.6
+  },
+  "Pronged Spear": {
+    "min": 40,
+    "max": 75,
+    "aps": 1.6
+  },
+  "Stalking Spear": {
+    "min": 44,
+    "max": 82,
+    "aps": 1.55
+  },
+  "Flying Spear": {
+    "min": 41,
+    "max": 76,
+    "aps": 1.6
+  },
+  "Grand Spear": {
+    "min": 46,
+    "max": 85,
+    "aps": 1.5
+  },
+  "Spiked Spear": {
+    "min": 41,
+    "max": 76,
+    "aps": 1.6
+  }
+}
